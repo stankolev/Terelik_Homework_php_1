@@ -1,4 +1,4 @@
-homewrok_test
+Simple PHP Expence Manager in Bulgarian
 =============
 
-Testing Home Work 
+Nothing to read for now
